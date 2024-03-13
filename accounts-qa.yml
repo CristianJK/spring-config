@@ -1,0 +1,11 @@
+build:
+  version: "v2.0"
+
+contact:
+  message: "Bank System - Accounts API"
+  details:
+    name: "Cristian Torres - QA"
+    email: "torrescc@globalhitss.com"
+  phone-numbers:
+    - "(57) 320-609-6239"
+    - "(57) 305-261-0117"
