@@ -1,0 +1,11 @@
+build:
+  version: "v2.0"
+
+contact:
+  message: "Bank System - Loans API"
+  details:
+    name: "Cristian Torres - Productive"
+    email: "cristian.torresj@claro.com.co"
+  phone-numbers:
+    - "(57) 320-609-6239"
+    - "(57) 319-583-4889"
