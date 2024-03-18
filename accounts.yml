@@ -1,8 +1,8 @@
 build:
-  version: "v3.0"
+  version: "v4.0"
 
 contact:
-  message: "Bank System - Accounts API Prueba Refresh"
+  message: "Bank System - Accounts API Prueba Refresh 2"
   details:
     name: "Cristian Torres - Developer"
     email: "torrescc@globalhitss.com"
